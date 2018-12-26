@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">从上往下的抽屉效果</string>
+    <string name="open_panel">打开抽屉view</string>
+    <string name="close_panel">关闭抽屉view</string>
+</resources>
